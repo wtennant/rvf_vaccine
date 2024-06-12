@@ -33,7 +33,7 @@ The purpose of this code is to use the Sequential Monte Carlo optimisation algor
 In order to run this example, your system requires a method for compiling `C++` code. Here, we used the gcc version 13.1.0 executed on Windows 11. The environment also requires a compiled library of GNU Scientific Library (GSL). The version used in this code is GSL 2.7.
 
 #### Execution
-- Prior to compilation, the number of CPU threads used to execute the code may be changed by modifying 'RVF_NTHREADS' definition in the 'config.h' file (line 33). The default number of threads is 1.
+- Prior to compilation, the number of CPU threads used to execute the code may be changed by modifying `RVF_NTHREADS` definition in the `config.h` file. The default number of threads is 1.
 - Set the working directory to `example/1A_optimisation`.
 - Compile all .cpp files in the `example/1A_optimisation` folder using
 ```cpp
@@ -69,7 +69,7 @@ The purpose of this code is to simulate the mathematical model using the optimal
 An example output of the previous steps have been placed in the `in` folder for convenience. The data produced by the previous steps may be used instead, but must be placed in the `in` folder. As with Step 1A, your system requires a method for compiling `C++` code. Here, we used the gcc version 13.1.0 executed on Windows 11. The environment also requires a compiled library of GNU Scientific Library (GSL). The version used in this code is GSL 2.7.
 
 #### Execution
-- Prior to compilation, the number of CPU threads used to execute the code may be changed by modifying 'RVF_NTHREADS' definition in the 'config.h' file (line 33). The default number of threads is 1.
+- Prior to compilation, the number of CPU threads used to execute the code may be changed by modifying `RVF_NTHREADS` definition in the `config.h` file. The default number of threads is 1.
 - Set the working directory to `example/2A_simulation`.
 - Compile all .cpp files in the `2A_simulation` folder using
 ```cpp
