@@ -1,9 +1,9 @@
 # Supporting data and code for the paper entitled *Effectiveness and equity of vaccination strategies against Rift Valley fever in a heterogeneous landscape*
-This repository contains the data and code which were used to produce the manuscript entitled '[Effectiveness and equity of vaccination strategies against Rift Valley fever in a heterogeneous landscape](doi.org/10.1101/2024.07.18.604096)'.
+This repository contains the data and code which were used to produce the manuscript entitled '[Effectiveness and equity of vaccination strategies against Rift Valley fever in a heterogeneous landscape](https://doi.org/10.1101/2024.07.18.604096)'.
 
 In our manuscript, we developed a metapopulation model for RVF transmission in livestock across the Comoros archipelago which incorporates livestock vaccination in addition to heterogeneity in viral transmission rates and animal movements. We used the model to evaluate three vaccine allocation strategies—proportional allocation, optimal allocation for maximising total infections averted across the archipelago, and optimal allocation for more equitable outcomes across islands—under different vaccination coverage levels and animal identification scenarios.
 
-Below we outline how to generate the outputs of one vaccine allocation strategy using the supplied example code, a descipription of the input data used to simulate simulate the mathematical model forward in time, and provide a description of the full source code used to produce all results in our manuscript: available as a pre-print on bioRxiv at [doi.org/10.1101/2024.07.18.604096](doi.org/10.1101/2024.07.18.604096).
+Below we outline how to generate the outputs of one vaccine allocation strategy using the supplied example code, a descipription of the input data used to simulate simulate the mathematical model forward in time, and provide a description of the full source code used to produce all results in our manuscript: available as a pre-print on bioRxiv at [doi.org/10.1101/2024.07.18.604096](https://doi.org/10.1101/2024.07.18.604096).
 
 ### Table of Contents
 - [Example code for reproducing results from the study](#example-code-for-reproducing-results-from-the-study)
